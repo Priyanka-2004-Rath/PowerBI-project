@@ -1,4 +1,4 @@
-# PowerBI-project
+# SUPER STORE SALES DASHBOARD - PowerBI-project
 <h1>SUPER STORE SALES DASHBOARD</h1>
 <br>
 Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success. 
